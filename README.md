@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
