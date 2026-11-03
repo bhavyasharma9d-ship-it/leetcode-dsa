@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3665-twisted-mirror-path-count](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
