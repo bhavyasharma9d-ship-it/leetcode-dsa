@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3665-twisted-mirror-path-count](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
+## Sorting
+|  |
+| ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
