@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0844-backspace-string-compare](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -63,9 +65,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
