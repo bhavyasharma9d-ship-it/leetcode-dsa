@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0042-trapping-rain-water) |
+| [2390-removing-stars-from-a-string](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
+## String
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
