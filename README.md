@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0844-backspace-string-compare) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
