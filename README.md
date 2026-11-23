@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0844-backspace-string-compare) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0067-add-binary) |
 | [0844-backspace-string-compare](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
