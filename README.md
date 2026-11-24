@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0682-baseball-game) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3665-twisted-mirror-path-count](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0067-add-binary) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -88,4 +90,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0020-valid-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
