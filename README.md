@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0682-baseball-game](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0682-baseball-game) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
