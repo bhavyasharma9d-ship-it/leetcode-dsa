@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0067-add-binary) |
+| [3360-stone-removal-game](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3360-stone-removal-game) |
 ## Bracket Sequences
 |  |
 | ------- |
