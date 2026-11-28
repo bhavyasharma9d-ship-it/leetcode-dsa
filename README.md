@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## String
 |  |
 | ------- |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/bhavyasharma9d-ship-it/leetcode-dsa/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 <!---LeetCode Topics End-->
